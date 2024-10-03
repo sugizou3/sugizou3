@@ -39,6 +39,12 @@
 ## 2.プロジェクト
 
 ### 1. [ビジネス書要約サイト](https://bisiness-hakase-frontend.vercel.app/)
+**利用にあたって**
+アカウントにはテスト用にテストユーザーを作成しています。
+以下の情報でログインできます。また新規にアカウントを作成していただいてもかまいません。
+メールアドレス:test@test.com
+パスワード:test
+
 
 **使用言語**:  
 - バックエンド: Python (Django REST Framework)  
