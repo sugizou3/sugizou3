@@ -130,6 +130,9 @@ AIに対する興味から、競馬の着順予測を行うことにしました
 - **UnityのMLAgents**を使用し、強化学習によるレーシングAIを作成。  
 - Webスクレイピング技術を活用し、単語の自動発音機能を実装しました。
 
+![RacingGame](https://github.com/user-attachments/assets/1e2748fb-3abb-4faf-8bee-45715f09efea)
+
+
 ---
 
 ### 5. その他
