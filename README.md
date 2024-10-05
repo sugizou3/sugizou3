@@ -90,6 +90,10 @@ AIに対する興味から、競馬の着順予測を行うことにしました
 
 （[詳細はこちら](https://github.com/sugizou3/keiba))
 
+![keiba_model](https://github.com/user-attachments/assets/6c638a97-862e-46e7-a1c1-3b1e2b8459c9)
+
+
+
 ---
 
 ### 3. 画像一致プログラム（研究用途）
