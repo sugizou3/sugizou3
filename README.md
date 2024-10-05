@@ -68,6 +68,9 @@ YouTube上でビジネス書の要約動画が人気となり、多くのノウ�
 一部バグがあります。  
 サイトのレスポンスは遅いです。
 
+![website](https://github.com/user-attachments/assets/376a08f3-215f-4199-874e-19da9c537485)
+
+
 ---
 
 ### 2. 競馬AI
@@ -105,6 +108,10 @@ AIに対する興味から、競馬の着順予測を行うことにしました
 2. **表面傾斜の補正**: 最小二乗法を用いて表面の傾斜を補正し、より正確に画像を一致させます。
 
 （[詳細はこちら](https://github.com/sugizou3/Image_match))
+![画像一致プログラム画像](https://github.com/user-attachments/assets/e4792a6d-82c4-45ff-a5a3-75765a697d18)
+
+
+
 
 ---
 
