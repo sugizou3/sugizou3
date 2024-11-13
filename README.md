@@ -45,6 +45,8 @@
 メールアドレス : test@test.com  
 パスワード : test  
 
+※現在はデータベースが利用できないため一部機能が利用できません。
+
 
 **使用言語**:  
 - バックエンド: Python (Django REST Framework)  
